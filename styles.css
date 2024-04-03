@@ -1,8 +1,16 @@
+*
+{
+    background-color: rgb(215, 213, 213);
+}
+
+
+
 h1 
 {
-background-color: aquamarine;
+    text-align:center;
+background-color: aliceblue;
 padding: 20px;
-border: 20px solid red;
+
 margin: 20px
 
 }
